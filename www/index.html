@@ -28,16 +28,22 @@
     </head>
     <body>
         <div class="app">
-            <h1>PhoneGap</h1>
+            <h1>Tour de Drupal</h1>
             <div id="deviceready" class="blink">
                 <p class="event listening">Connecting to Device</p>
                 <p class="event received">Device is Ready</p>
+                <p id="lat">Lat = <span>0</span></p>
+                <p id="lng">Lng = <span>0</span></p>
+                <button onclick="boom()">Update</button>
             </div>
         </div>
         <script type="text/javascript" src="phonegap.js"></script>
+        <script type="text/javascript" src="js/update.js"></script>
         <script type="text/javascript" src="js/index.js"></script>
+        <script type="text/javascript" src="js/jquery-2.1.0.min.js"></script>
         <script type="text/javascript">
             app.initialize();
         </script>
     </body>
 </html>
+
