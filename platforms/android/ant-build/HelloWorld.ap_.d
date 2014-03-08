@@ -15,6 +15,7 @@
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/_where-is-www.txt \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/img \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/res \
+/home/vagrant/dev/tourdedrupal/platforms/android/assets/www/plugins \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/config.xml \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/phonegap.js \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/css \
@@ -26,6 +27,7 @@
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/icon.png \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/js \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/img/logo.png \
+/home/vagrant/dev/tourdedrupal/platforms/android/assets/www/img/old.logo.png \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/res/icon \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/res/screen \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/res/icon/bada-wac \
@@ -87,6 +89,12 @@
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/res/screen/ios/screen-ipad-landscape.png \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/res/screen/ios/screen-iphone-portrait-2x.png \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/res/screen/ios/screen-iphone-landscape-2x.png \
+/home/vagrant/dev/tourdedrupal/platforms/android/assets/www/plugins/org.apache.cordova.geolocation \
+/home/vagrant/dev/tourdedrupal/platforms/android/assets/www/plugins/org.apache.cordova.geolocation/www \
+/home/vagrant/dev/tourdedrupal/platforms/android/assets/www/plugins/org.apache.cordova.geolocation/www/Position.js \
+/home/vagrant/dev/tourdedrupal/platforms/android/assets/www/plugins/org.apache.cordova.geolocation/www/Coordinates.js \
+/home/vagrant/dev/tourdedrupal/platforms/android/assets/www/plugins/org.apache.cordova.geolocation/www/geolocation.js \
+/home/vagrant/dev/tourdedrupal/platforms/android/assets/www/plugins/org.apache.cordova.geolocation/www/PositionError.js \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/css/index.css \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/spec/lib \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/spec/index.js \
@@ -96,5 +104,7 @@
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/spec/lib/jasmine-1.2.0/jasmine.js \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/spec/lib/jasmine-1.2.0/jasmine.css \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/spec/lib/jasmine-1.2.0/jasmine-html.js \
+/home/vagrant/dev/tourdedrupal/platforms/android/assets/www/js/update.js \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/js/index.js \
+/home/vagrant/dev/tourdedrupal/platforms/android/assets/www/js/jquery-2.1.0.min.js \
 /home/vagrant/dev/tourdedrupal/platforms/android/ant-build/AndroidManifest.xml \
