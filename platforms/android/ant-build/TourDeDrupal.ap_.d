@@ -1,4 +1,4 @@
-/home/vagrant/dev/tourdedrupal/platforms/android/ant-build/TourdeDrupal.ap_ \
+/home/vagrant/dev/tourdedrupal/platforms/android/ant-build/TourDeDrupal.ap_ \
  : /home/vagrant/dev/tourdedrupal/platforms/android/res/xml/config.xml \
 /home/vagrant/dev/tourdedrupal/platforms/android/res/drawable-ldpi/icon.png \
 /home/vagrant/dev/tourdedrupal/platforms/android/res/values/strings.xml \

@@ -7,7 +7,7 @@
     <feature name="Geolocation">
         <param name="android-package" value="org.apache.cordova.geolocation.GeoBroker" />
     </feature>
-    <name>Tour de Drupal</name>
+    <name>TourDeDrupal</name>
     <description>
         Tracking App to update website with the Progress of the Tour de Drupal.
     </description>
