@@ -1,4 +1,4 @@
-/home/vagrant/dev/tourdedrupal/platforms/android/ant-build/HelloWorld.ap_ \
+/home/vagrant/dev/tourdedrupal/platforms/android/ant-build/TourdeDrupal.ap_ \
  : /home/vagrant/dev/tourdedrupal/platforms/android/res/xml/config.xml \
 /home/vagrant/dev/tourdedrupal/platforms/android/res/drawable-ldpi/icon.png \
 /home/vagrant/dev/tourdedrupal/platforms/android/res/values/strings.xml \
@@ -25,6 +25,7 @@
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/spec.html \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/cordova.js \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/icon.png \
+/home/vagrant/dev/tourdedrupal/platforms/android/assets/www/old.icon.png \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/js \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/img/logo.png \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/img/old.logo.png \
@@ -50,10 +51,12 @@
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/res/icon/android/icon-72-hdpi.png \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/res/icon/android/icon-96-xhdpi.png \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/res/icon/android/icon-36-ldpi.png \
+/home/vagrant/dev/tourdedrupal/platforms/android/assets/www/res/icon/android/old.icon-72-hdpi.png \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/res/icon/android/icon-48-mdpi.png \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/res/icon/bada/icon-128.png \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/res/icon/ios/icon-72.png \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/res/icon/ios/icon-57.png \
+/home/vagrant/dev/tourdedrupal/platforms/android/assets/www/res/icon/ios/old.icon-72-2x.png \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/res/icon/ios/icon-72-2x.png \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/res/icon/ios/icon-57-2x.png \
 /home/vagrant/dev/tourdedrupal/platforms/android/assets/www/res/screen/bada-wac \

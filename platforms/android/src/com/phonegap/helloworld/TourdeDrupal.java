@@ -15,36 +15,23 @@
        KIND, either express or implied.  See the License for the
        specific language governing permissions and limitations
        under the License.
-*/
-
-package org.apache.cordova.geolocation;
-
-import android.location.LocationManager;
-
-/**
- * This class handles requests for GPS location services.
- *
  */
-public class GPSListener extends CordovaLocationListener {
-    public GPSListener(LocationManager locationManager, GeoBroker m) {
-        super(locationManager, m, "[Cordova GPSListener]");
-    }
 
+package com.phonegap.helloworld;
 
-    /**
-     * Start requesting location updates.
-     *
-     * @param interval
-     */
+import android.os.Bundle;
+import org.apache.cordova.*;
+
+public class TourdeDrupal extends CordovaActivity 
+{
     @Override
-    protected void start() {
-        if (!this.running) {
-            if (this.locationManager.getProvider(LocationManager.GPS_PROVIDER) != null) {
-                this.running = true;
-                this.locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 60000, 0, this);
-            } else {
-                this.fail(CordovaLocationListener.POSITION_UNAVAILABLE, "GPS provider is not available.");
-            }
-        }
+    public void onCreate(Bundle savedInstanceState)
+    {
+        super.onCreate(savedInstanceState);
+        super.init();
+        // Set by <content src="index.html" /> in config.xml
+        super.loadUrl(Config.getStartUrl());
+        //super.loadUrl("file:///android_asset/www/index.html");
     }
 }
+
